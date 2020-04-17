@@ -1,9 +1,0 @@
-C:\Users\joela\Desktop\prueba1\prueba1\bin\Debug\prueba1.exe
-C:\Users\joela\Desktop\prueba1\prueba1\bin\Debug\prueba1.pdb
-C:\Users\joela\Desktop\prueba1\prueba1\obj\x86\Debug\prueba1.Form1.resources
-C:\Users\joela\Desktop\prueba1\prueba1\obj\x86\Debug\prueba1.Properties.Resources.resources
-C:\Users\joela\Desktop\prueba1\prueba1\obj\x86\Debug\prueba1.csproj.GenerateResource.Cache
-C:\Users\joela\Desktop\prueba1\prueba1\obj\x86\Debug\prueba1.exe
-C:\Users\joela\Desktop\prueba1\prueba1\obj\x86\Debug\prueba1.pdb
-C:\Users\joela\Desktop\EjercicioGuia\prueba1\obj\x86\Debug\prueba1.exe
-C:\Users\joela\Desktop\EjercicioGuia\prueba1\obj\x86\Debug\prueba1.pdb
